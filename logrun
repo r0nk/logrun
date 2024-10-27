@@ -1,4 +1,4 @@
 #!/bin/bash
 logpath="$1"
 shift
-/usr/bin/time -a -o "$logpath" -f "$(date -Im) \"%C\" [%x] $(pwd) %es %Skernel %Uuser %MkB" $@
+/usr/bin/time -a -o "$logpath" -f "$(date -Im)\t\"%C\"\t[%x]\t$(pwd)\t%es\t%Skernel\t%Uuser\t%MkB" $@

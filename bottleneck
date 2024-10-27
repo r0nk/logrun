@@ -1,0 +1,8 @@
+#!/bin/bash
+results_path="$1"
+cat $results_path | choose -f '\t' 1 | sort | uniq | while read line;
+do
+	count=$(cat $results_path | grep "$line" | wc -l)
+	mean_runtime=$(cat $results_path | grep "$line" | choose -f '\t' 4 | tr -d 's' | st --mean)
+	echo $(echo $count "*" $mean_runtime | bc -l) $count $line $mean_runtime
+done | sort -g

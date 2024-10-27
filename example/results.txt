@@ -1,0 +1,300 @@
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3316kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.05s	0.02kernel	0.02user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3308kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.01s	0.00kernel	0.00user	3328kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3316kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3328kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3200kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.02user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3308kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.04s	0.02kernel	0.02user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3308kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.02s	0.01kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3296kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.03s	0.01kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3308kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3428kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.01s	0.00kernel	0.00user	3328kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.02s	0.01kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3304kB
+2024-10-27T12:05-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3304kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3324kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3428kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.01s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.01s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.05s	0.03kernel	0.02user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3316kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3316kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3300kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3304kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.02s	0.01kernel	0.01user	3424kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.02s	0.01kernel	0.01user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3308kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3296kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3308kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3432kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.01kernel	0.01user	3432kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3308kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3300kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.01s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3424kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.04s	0.03kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3308kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.02s	0.01kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.01kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3300kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3200kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.03s	0.01kernel	0.01user	3436kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.02s	0.01kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.04s	0.02kernel	0.02user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3304kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.02s	0.01kernel	0.01user	3432kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3192kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3288kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3424kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.01kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3436kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3200kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.03s	0.01kernel	0.01user	3436kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3184kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3312kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3436kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3428kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3200kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3424kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3432kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3316kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3424kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3316kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.03s	0.02kernel	0.01user	3424kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3436kB
+2024-10-27T12:06-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3436kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3316kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3424kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3424kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3432kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3304kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3432kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3436kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3072kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3304kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.04s	0.03kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.05s	0.03kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.04s	0.02kernel	0.02user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3308kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.03kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3436kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.01s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3200kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.05s	0.03kernel	0.02user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.01kernel	0.02user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3304kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.01kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3300kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3300kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3300kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.04s	0.02kernel	0.02user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3424kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.04s	0.03kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.03s	0.01kernel	0.01user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3424kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3316kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.01kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3304kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3324kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	3.04s	0.02kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.02s	0.01kernel	0.01user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3304kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:07-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.04s	0.02kernel	0.02user	3456kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3300kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3200kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3424kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.05s	0.02kernel	0.02user	3424kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3456kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3456kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.03s	0.01kernel	0.01user	3456kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	2.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	2.03s	0.02kernel	0.01user	3328kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3320kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	1.00s	0.00kernel	0.00user	3328kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	1.02s	0.01kernel	0.01user	3328kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh faster"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3308kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh slower"	[0]	/home/r0nk/src/management/logrun/example	0.00s	0.00kernel	0.00user	3316kB
+2024-10-27T12:08-05:00	"/bin/bash ./faster_slower.sh"	[0]	/home/r0nk/src/management/logrun/example	0.03s	0.01kernel	0.01user	3456kB
